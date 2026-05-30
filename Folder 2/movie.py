@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv(r"C:\Users\MKP\Documents\Project Folder\task2\IMDb Movies India.csv", encoding='latin1')
+df = pd.read_csv(r"task2\IMDb Movies India.csv", encoding='latin1')
 
 print(df.head()
 ,df.shape
