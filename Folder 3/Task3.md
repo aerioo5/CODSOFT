@@ -82,13 +82,13 @@ Confusion Matrix:
 Classification Report:
 
                   precision    recall  f1-score   support
-
-    Iris-setosa       1.00      1.00      1.00        10
+    
+  Iris-setosa         1.00      1.00      1.00        10
 Iris-versicolor       1.00      1.00      1.00         9
  Iris-virginica       1.00      1.00      1.00        11
 
-       accuracy                           1.00        30
-      macro avg       1.00      1.00      1.00        30
+   accuracy                               1.00        30
+   macro avg          1.00      1.00      1.00        30
    weighted avg       1.00      1.00      1.00        30
 
 ## 📚 Learning Outcomes
