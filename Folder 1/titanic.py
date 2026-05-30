@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 #load dataset
-df= pd.read_csv(r"C:\Users\MKP\Documents\Project Folder\task1\Titanic-Dataset.csv")
+df= pd.read_csv("task1\Titanic-Dataset.csv")
 
 #Missing values
 print(df.isnull().sum())
