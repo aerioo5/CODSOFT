@@ -1,10 +1,21 @@
-Task 2 : Movie Rating Prediction 
+# Task 2 : Movie Rating Prediction 
 
 A Machine Learning project that predicts movie ratings using the IMDb India Movies dataset. This project includes data cleaning, exploratory data analysis (EDA), visualization, and rating prediction using Linear Regression.
 
 ## 📌Project Overview
-This project analyzes Indian IMDb movie data and builds a machine learning model to predict movie ratings based on features, Columns include:
- Name, Year, Duration, Genre, Rating, Votes, Director, Actor 1, Actor 2, Actor 3
+This project analyzes Indian IMDb movie data and builds a machine learning model to predict movie ratings based on features.
+
+Columns include:
+   - Name
+   - Year
+   - Duration
+   - Genre
+   - Rating
+   - Votes
+   - Director
+   - Actor 1
+   - Actor 2
+   - Actor 3
 
 ## ✨Features
 - Data Cleaning & Preprocessing
@@ -42,7 +53,14 @@ Evaluation Metrics:
 2. Mean Squared Error (MSE)
 3. R² Score
 
-## 📸 Sample Visualizations
+## 📸 Results and Visualizations
+
+MAE: 1.0495625054893816
+
+MSE: 1.6864004365428569
+
+R2 Score: 0.08929055052181312
+
 1. Top Rated Movies
 2. Movie released / year
 3. Rating Distribution
@@ -54,10 +72,13 @@ Evaluation Metrics:
 
 ## ▶️ How to Run
 
-pip install pandas numpy matplotlib seaborn scikit-learn
+Install required packages:
+                     
+              pip install pandas numpy matplotlib seaborn scikit-learn
 
 Run the project:
-python movie.py
+ 
+              python movie.py
 
 
 ## ✨Future Improvements
@@ -68,7 +89,9 @@ python movie.py
 
 ## Author
 Developed as a beginner Machine Learning project using Python and Scikit-learn.
+
 Developed by [Aditi]  
+
 GitHub: [https://github.com/your-username](https://github.com/aerioo5)
 
 ⭐ If you like this project: Give this repository a ⭐ on GitHub!
