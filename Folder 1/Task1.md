@@ -1,8 +1,10 @@
-Task 1: Titanic Survival Prediction using Machine Learning
+# Task 1: Titanic Survival Prediction using Machine Learning
 
+Use the Titanic dataset to build a model that predicts whether a passenger on the Titanic survived or not. This is a classic beginner project with readily available data. The dataset typically used for this project contains information about individual passengers, such as their age, gender, ticket class, fare, cabin, and whether or not they survived. 
 
 ## 📌 Project Overview
-The objective of this project is to analyze the Titanic dataset and build a Machine Learning model capable of predicting passenger survival based on features such as:
+
+The objective of this project is to analyze the Titanic dataset and build a Machine Learning model capable of predicting passenger survival based on features such as (Dataset) :
 - Passenger Class
 - Gender
 - Age
@@ -13,6 +15,7 @@ The objective of this project is to analyze the Titanic dataset and build a Mach
 This project demonstrates the complete Machine Learning workflow from data preprocessing to model evaluation.
 
 ## ✨Features
+
 - Data Cleaning & Preprocessing
 - Handling Missing Values
 - Encoding Categorical Data
@@ -23,6 +26,7 @@ This project demonstrates the complete Machine Learning workflow from data prepr
 - Confusion Matrix Visualization
 
 ## 🛠️ Technologies Used
+
 - Python
 - Pandas
 - NumPy
@@ -31,6 +35,7 @@ This project demonstrates the complete Machine Learning workflow from data prepr
 - Seaborn
 
 ## 🚀 Machine Learning Workflow
+
 1. Load Dataset
 2. Explore and Analyze Data
 3. Clean and Preprocess Data
@@ -41,17 +46,24 @@ This project demonstrates the complete Machine Learning workflow from data prepr
 8. Evaluate Model Performance
 
 ## 📊 Model Accuracy
+
 The Logistic Regression model achieved approximately **80%+ accuracy** on the test dataset.
+
 Formula used:  Accuracy = Correct Predictions / Total Predictions
 
-Dataset: The project uses the Titanic dataset containing passenger information such as:
-( Passenger Class, Gender, Age, Fare, Embarked Port, Survival Status)
 
 ## ▶️ How to Run the Project
-Install Dependencies: pip install -r requirements.txt
-Run the Program: python titanic.py
+
+Install Dependencies: 
+                    
+                pip install -r requirements.txt
+
+Run the Program: 
+              
+                python titanic.py
 
 ## ✨Learning Outcome
+
 This project helped in understanding:
 - Supervised Machine Learning
 - Classification Problems
@@ -60,17 +72,22 @@ This project helped in understanding:
 - Visualization of Results
 
 ## 📸 Preview
+
 <img width="640" height="480" alt="task1" src="https://github.com/user-attachments/assets/f167d945-188e-4338-b8e6-d40893582618" />
 
 ## ✨Future Improvements
+
 - Implement Random Forest Classifier
 - Improve Accuracy using Feature Engineering
 - Deploy Model using Flask or Streamlit
 - Add Interactive Visualizations
 
 ## Author
+
 Developed as a beginner Machine Learning project using Python and Scikit-learn.
+
 Developed by [Aditi]  
+
 GitHub: [https://github.com/your-username](https://github.com/aerioo5)
 
 ⭐If you like this project: Give this repository a ⭐ on GitHub!
