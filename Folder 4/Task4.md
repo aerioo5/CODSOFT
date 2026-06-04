@@ -90,3 +90,13 @@ The Sales Prediction model successfully forecasts product sales using advertisin
 - Add seasonal and customer demographic data.
 
 - Deploy the model as a web application using Flask or Streamlit.
+
+## Author
+
+Developed as a beginner Machine Learning project using Python and Scikit-learn.
+
+Developed by [Aditi]
+
+GitHub: https://github.com/your-username
+
+⭐ If you like this project: Give this repository a ⭐ on GitHub!
